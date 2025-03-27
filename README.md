@@ -34,9 +34,3 @@
 *Note: Replace these bullet points with your actual insights from the analysis if needed.*
 
 ---
-
-## 🚀 How to Run the Project
-
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/MOSTAPHAAA999/HR-Data-Analysis.git
